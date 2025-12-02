@@ -96,10 +96,10 @@ const playlist = [
   }
 ];
 
-const currentSongIndex = ref(2); // Start with the third song (Tum Jo Aaye)
+const currentSongIndex = ref(0); // Start with the third song (Tum Jo Aaye)
 const isPlaying = ref(false);
 const audioPlayer = ref(null);
-const currentSong = ref(playlist[2]); // Set initial song to Tum Jo Aaye
+const currentSong = ref(playlist[0]); // Set initial song to Tum Jo Aaye
 const progress = ref(0);
 const currentTime = ref(0);
 const duration = ref(0);

@@ -201,7 +201,7 @@ function updateProgress(startTime) {
   font-family: 'Poppins', sans-serif;
   position: relative;
   overflow: hidden;
-  padding-top: var(--topbar-h);
+
 }
 
 .love-page::before {
