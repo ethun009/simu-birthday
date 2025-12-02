@@ -9,7 +9,12 @@ export default defineNuxtConfig({
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'A special message from miles away' }
+        { name: 'description', content: 'A special message from miles away' },
+        { name: 'application-name', content: 'SIMU BIRTHDAY' },
+        { name: 'apple-mobile-web-app-title', content: 'SIMU BIRTHDAY' },
+        { name: 'apple-mobile-web-app-capable', content: 'yes' },
+        { name: 'mobile-web-app-capable', content: 'yes' },
+        { name: 'theme-color', content: '#ff69b4' }
       ],
       link: [
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },

@@ -34,12 +34,12 @@ const slides = ref([
   { 
     id: 2, 
     image: '/assets/girl/2.jpg', 
-    caption: 'Every moment apart, I send my love across the miles...'
+    caption: 'Forever my ride-or-die 🫂💞...'
   },
   { 
     id: 3, 
     image: '/assets/girl/3.jpg', 
-    caption: 'Your smile is the light that guides me home...'
+    caption: 'Your smile = my sunshine ☀️😎'
   },
   { 
     id: 4, 
@@ -49,7 +49,7 @@ const slides = ref([
   { 
     id: 5, 
     image: '/assets/girl/5.jpg',  
-    caption: 'With you, every day feels like a beautiful dream...'
+    caption: 'Best friend ever ❤️🤗'
   },
   { 
     id: 6, 

@@ -1,11 +1,11 @@
 {
-  "name": "To You, From Miles Away...",
-  "short_name": "Pratima Birthday",
+  "name": "SIMU BIRTHDAY",
+  "short_name": "Simu",
   "description": "A special message from miles away",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#ff69b4",
   "orientation": "portrait",
   "categories": ["social"],
   "icons": [

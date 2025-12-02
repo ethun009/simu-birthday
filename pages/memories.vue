@@ -45,8 +45,8 @@
       <TypewriterText 
         :phrases="[
           'Every moment with you is a memory I treasure...',
-          'Distance is just a test to see how far love can travel...',
-          'In your eyes, I found my home...',
+          'Distance is just a test to see how far friendship can travel...',
+          'In your eyes, I found my happiness...',
           'Your smile is my favorite work of art...'
         ]" 
       />
